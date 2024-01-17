@@ -1,5 +1,5 @@
 # Ethereum Validator Controller
-This GUI validator controller makes operating a validator simple and accessible to all.
+The validator controller is a simple GUI that makes operating a validator simple and accessible to all.
 
 ## Features:
 
